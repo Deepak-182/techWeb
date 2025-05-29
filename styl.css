@@ -1,0 +1,12 @@
+.carousel-inner{
+    width: 100%;
+    height: 50%;
+    
+}
+.btn btn-danger a{
+    text-decoration: none;
+}
+#k2{
+    font-family: Berlin Sans FB;
+    text-shadow: 3px 2px 3px rgb(13, 138, 255);
+}
